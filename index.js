@@ -15,7 +15,7 @@ function greet(time)
   let result = parseInt(another_time, 10)
   
   if (result < 1200) {
-    
+    return 
   }
   
 /* Write your implementation of displayMessage() */
