@@ -10,5 +10,6 @@ function handleClick(e) {
 /* End Given Code, don't edit above here...*/
 
 function greet(time)
+  let time = time.split(:)
   
 /* Write your implementation of displayMessage() */
