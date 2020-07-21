@@ -11,5 +11,5 @@ function handleClick(e) {
 
 function greet(time)
   let time = time.split(:)
-  
+  let another_time = 
 /* Write your implementation of displayMessage() */
