@@ -20,7 +20,10 @@ function greet(time)
   else if (result > 1700) {
     return "Good Evening";
   }
-  else 
+  else {
+    return "Good Afternoon";
+  }
+  }
   }
   }
   
