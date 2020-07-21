@@ -17,7 +17,9 @@ function greet(time)
   if (result < 1200) {
     return "Good Morning";
     
-  else if (result > 1700 )
+  else if (result > 1700) {
+    return "Good Evening"
+  }
   }
   
 /* Write your implementation of displayMessage() */
